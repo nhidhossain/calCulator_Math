@@ -1,2 +1,5 @@
 # calCulator_Math
-This is my first Python project that I code for practice. 
+
+Author - Nahid Hossain
+<br>
+This is my first Python project that I code for practice.
